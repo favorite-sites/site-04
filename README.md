@@ -1,5 +1,4 @@
-# site-04
-딥러닝 책 예제소스
+# 딥러닝 책 예제소스
 
 https://github.com/gilbutITbook/006967
 
