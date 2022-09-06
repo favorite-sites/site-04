@@ -4,7 +4,7 @@ https://github.com/gilbutITbook/006967 V
 
 https://github.com/gilbutITbook/006959 V
 
-https://github.com/gilbutITbook/006950
+https://github.com/gilbutITbook/006950 =
 
 https://github.com/teddylee777/machine-learning
 
