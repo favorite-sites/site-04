@@ -1,6 +1,6 @@
 # 딥러닝 책 예제소스
 
-https://github.com/gilbutITbook/006967
+https://github.com/gilbutITbook/006967 V
 
 https://github.com/gilbutITbook/006959
 
