@@ -4,11 +4,11 @@ https://github.com/gilbutITbook/006967 V
 
 https://github.com/gilbutITbook/006959 V
 
-https://github.com/gilbutITbook/006950 =
+https://github.com/gilbutITbook/006950 -
 
-https://github.com/teddylee777/machine-learning
+https://github.com/teddylee777/machine-learning V
 
-https://github.com/dhrim/cau_2021
+https://github.com/dhrim/cau_2021 
 
 https://github.com/rickiepark/hg-mldl
 
