@@ -1,5 +1,11 @@
 # 딥러닝 책 예제소스
 
+// 텐서플로우 API 도큐먼트
+
+https://www.tensorflow.org/api_docs/python/tf
+
+// 텐서플로우 예제 소스
+
 https://github.com/gilbutITbook/006967 V
 
 https://github.com/gilbutITbook/006959 V
