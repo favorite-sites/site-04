@@ -16,9 +16,9 @@ https://github.com/teddylee777/machine-learning V
 
 https://github.com/dhrim/cau_2021 V
 
-https://github.com/rickiepark/hg-mldl
+https://github.com/rickiepark/hg-mldl -
 
-https://github.com/rickiepark/do-it-dl
+https://github.com/rickiepark/do-it-dl -
 
 https://github.com/deeplearningzerotoall/TensorFlow
 
