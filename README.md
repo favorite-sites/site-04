@@ -30,9 +30,9 @@ https://github.com/bjpublic/DeepLearningProject // 파이토치
 
 https://github.com/gilbutITbook/080324 V
 
-https://github.com/jskDr/keraspp
+https://github.com/jskDr/keraspp V
 
-https://github.com/bbongcol/deep-learning-bookmarks
+https://github.com/bbongcol/deep-learning-bookmarks V
 
 https://github.com/lovedlim/tensorflow
 
