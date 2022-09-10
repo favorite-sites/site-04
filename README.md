@@ -16,15 +16,15 @@ https://github.com/teddylee777/machine-learning V
 
 https://github.com/dhrim/cau_2021 V
 
-https://github.com/rickiepark/hg-mldl -
+https://github.com/rickiepark/hg-mldl - 기초
 
-https://github.com/rickiepark/do-it-dl -
+https://github.com/rickiepark/do-it-dl - 기초
 
 https://github.com/deeplearningzerotoall/TensorFlow V
 
 https://github.com/heartcored98/Standalone-DeepLearning // 파이토치
 
-https://github.com/gilbutITbook/080228
+https://github.com/gilbutITbook/080228 - 기초
 
 https://github.com/bjpublic/DeepLearningProject
 
