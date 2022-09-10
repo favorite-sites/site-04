@@ -22,7 +22,7 @@ https://github.com/rickiepark/do-it-dl -
 
 https://github.com/deeplearningzerotoall/TensorFlow V
 
-https://github.com/heartcored98/Standalone-DeepLearning
+https://github.com/heartcored98/Standalone-DeepLearning // 파이토치
 
 https://github.com/gilbutITbook/080228
 
