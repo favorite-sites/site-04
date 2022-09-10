@@ -28,7 +28,7 @@ https://github.com/gilbutITbook/080228 - 기초
 
 https://github.com/bjpublic/DeepLearningProject // 파이토치
 
-https://github.com/gilbutITbook/080324
+https://github.com/gilbutITbook/080324 
 
 https://github.com/jskDr/keraspp
 
