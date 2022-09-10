@@ -20,7 +20,7 @@ https://github.com/rickiepark/hg-mldl -
 
 https://github.com/rickiepark/do-it-dl -
 
-https://github.com/deeplearningzerotoall/TensorFlow
+https://github.com/deeplearningzerotoall/TensorFlow V
 
 https://github.com/heartcored98/Standalone-DeepLearning
 
