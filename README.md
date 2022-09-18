@@ -34,7 +34,7 @@ https://github.com/jskDr/keraspp V
 
 https://github.com/bbongcol/deep-learning-bookmarks V
 
-https://github.com/lovedlim/tensorflow
+https://github.com/lovedlim/tensorflow V
 
 https://github.com/solaris33/deep-learning-tensorflow-book-code
 
