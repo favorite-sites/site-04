@@ -38,7 +38,7 @@ https://github.com/lovedlim/tensorflow V
 
 https://github.com/solaris33/deep-learning-tensorflow-book-code V
 
-https://github.com/rickiepark/dl-illustrated
+https://github.com/rickiepark/dl-illustrated V
 
 https://github.com/bjpublic/TMI-Deeplearning
 
