@@ -36,7 +36,7 @@ https://github.com/bbongcol/deep-learning-bookmarks V
 
 https://github.com/lovedlim/tensorflow V
 
-https://github.com/solaris33/deep-learning-tensorflow-book-code
+https://github.com/solaris33/deep-learning-tensorflow-book-code 
 
 https://github.com/rickiepark/dl-illustrated
 
