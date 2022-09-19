@@ -40,7 +40,7 @@ https://github.com/solaris33/deep-learning-tensorflow-book-code V
 
 https://github.com/rickiepark/dl-illustrated V
 
-https://github.com/bjpublic/TMI-Deeplearning
+https://github.com/bjpublic/TMI-Deeplearning V
 
 https://github.com/rickiepark/deep-learning-with-javascript
 
