@@ -42,23 +42,23 @@ https://github.com/rickiepark/dl-illustrated V
 
 https://github.com/bjpublic/TMI-Deeplearning V
 
-https://github.com/rickiepark/deep-learning-with-javascript
+https://github.com/rickiepark/deep-learning-with-javascript V
 
-https://github.com/golbin/TensorFlow-Tutorials
+https://github.com/golbin/TensorFlow-Tutorials V
 
-https://github.com/gilbutITbook/080263
+https://github.com/gilbutITbook/080263 V
 
-https://github.com/wikibook/machine-learning
+https://github.com/wikibook/machine-learning V
 
-https://github.com/gilbutITbook/080289
+https://github.com/gilbutITbook/080289 V
 
-https://github.com/youbeebee/deeplearning_from_scratch
+https://github.com/youbeebee/deeplearning_from_scratch V
 
-https://github.com/wikibook/dl-vision
+https://github.com/wikibook/dl-vision V
 
-https://github.com/keon/3-min-pytorch
+https://github.com/keon/3-min-pytorch // 파이토치
 
-https://github.com/gilbutITbook/006958
+https://github.com/gilbutITbook/006958 V
 
 https://github.com/rickiepark/deep-learning-with-python-2nd
 
