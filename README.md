@@ -200,5 +200,8 @@ https://github.com/PacktPublishing/Mastering-Computer-Vision-with-TensorFlow-2.0
 
 https://github.com/PacktPublishing/Learning-TensorFlow-2.0
 
+https://github.com/PsorTheDoctor/artificial-intelligence
+
+
 https://github.com/PacktPublishing/TensorFlow-Reinforcement-Learning-Quick-Start-Guide
 
