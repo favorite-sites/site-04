@@ -8,6 +8,10 @@ https://www.tensorflow.org/api_docs/python/tf
 
 https://keras.io/
 
+// 허깅페이스
+
+https://huggingface.co/docs
+
 // 텐서플로우 예제 소스
 
 https://github.com/gilbutITbook/006967 V
