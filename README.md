@@ -12,6 +12,10 @@ https://keras.io/
 
 https://huggingface.co/docs
 
+// 메타 AI
+
+https://ai.meta.com/
+
 // 텐서플로우 예제 소스
 
 https://github.com/gilbutITbook/006967 V
