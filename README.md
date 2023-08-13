@@ -16,6 +16,8 @@ https://keras.io/
 
 https://huggingface.co/docs
 
+https://huggingface.co/spaces
+
 // 메타 AI
 
 https://ai.meta.com/
