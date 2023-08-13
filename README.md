@@ -2,6 +2,8 @@
 
 // 캐글노하우
 
+https://www.kaggle.com/code
+
 https://github.com/zzsza/Kaggle-knowhow
 
 // 텐서플로우 API 도큐먼트
